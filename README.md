@@ -1,24 +1,11 @@
-# README
+This is the repository for the first app of the Complete Ruby on Rails Developer Course.
+It's called alpha-blog!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps to save changes:
 
-Things you may want to cover:
+git status: Check to see which files have been modified
 
-* Ruby version
+git add -A: Add all the files that have been modified
 
-* System dependencies
+git commit -m "insert message here": Commit files
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
